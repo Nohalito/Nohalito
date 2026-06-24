@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to my profile 🙃
+
+I kinda stumbled upon this GitHub feature randomly sooo...  
+
+I guess Imma leave it blank for a time  
+
+Just enough so that I can have the time to cook some mischevious honk honk-tier tomfoolery  
+:o)
+
+Nohalito
 
 <!--
 **Nohalito/Nohalito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
