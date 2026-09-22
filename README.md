@@ -22,7 +22,7 @@ I spend most of my time writing poetry in my `git commit -m` or playing roguelik
 
 <!-- Rubber Duck Debugging should be how society operate -->
 
-Everything is a lie, especially `0.1 + 02`.
+Everything is a lie, especially `0.1 + 0.2`.
 
 ## Tech stack 🧰
 
